@@ -17,3 +17,4 @@ https://drive.google.com/open?id=1-3VYdUZnacSj2H03k93_ZZVW4p_ldeVF
 # Results
 ## Task 01 Load pretrained CNN model and fine-tune FC layers
 ### VGG16
+![task01_aa](/fig/1aa.png)
