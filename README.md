@@ -17,4 +17,15 @@ https://drive.google.com/open?id=1-3VYdUZnacSj2H03k93_ZZVW4p_ldeVF
 # Results
 ## Task 01 Load pretrained CNN model and fine-tune FC layers
 ### VGG16
-![task01_aa](/fig/1aa.png)
+![task01_aa](/fig/1aa.PNG)
+![task01_a](/fig/1a.PNG)
+
+### ResNet18
+![task01_b](/fig/1b.PNG)
+
+## Task 02 Fine-tune the CNN and FC layers of the network:
+### VGG16
+![task02_a](/fig/2a.PNG)
+
+### ResNet18
+![task02_b](/fig/2b.PNG)
