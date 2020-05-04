@@ -13,6 +13,10 @@ https://drive.google.com/open?id=1-5b3W2RntS10ZlX3LliGxw3bQtfULSaQ
 https://drive.google.com/open?id=1-1FIZJvCmnazErldOGsO40GZKKjUUe8J
 #### ResNet18 Entire
 https://drive.google.com/open?id=1-3VYdUZnacSj2H03k93_ZZVW4p_ldeVF
+#### VGG16 Focal Loss
+https://drive.google.com/open?id=1F4qeXCQecA351ob0skER1IuBqeCZ1szx
+#### ResNet18 Focal Loss
+https://drive.google.com/open?id=1BoyHOYFjzdejaOtU5knAAhGB7eVej253
 
 # Results
 ## Task 01 Load pretrained CNN model and fine-tune FC layers
