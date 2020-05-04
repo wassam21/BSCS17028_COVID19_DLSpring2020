@@ -33,3 +33,5 @@ https://drive.google.com/open?id=1BoyHOYFjzdejaOtU5knAAhGB7eVej253
 
 ### ResNet18
 ![task02_b](/fig/2b.PNG)
+
+### Part 02 results in report_focal_loss.pdf
